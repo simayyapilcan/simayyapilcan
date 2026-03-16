@@ -39,5 +39,5 @@ Machine Learning • Data Analysis • Jupyter Notebook
 ## 📫 Contact
 
 LinkedIn: https://www.linkedin.com/in/simay-yapılcan-100ab2268/
-GitHub: https://github.com/simayyapilcan## Hi there 👋
+GitHub: https://github.com/simayyapilcan
 
