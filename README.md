@@ -1,6 +1,6 @@
 # Hi 👋 I'm Simay Yapılcan
 
-Backend Developer | AI Enthusiast  
+Backend Developer | Machine Learning | AI 
 
 Computer Science graduate passionate about building scalable backend systems and exploring AI technologies.
 
